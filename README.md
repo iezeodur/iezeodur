@@ -3,9 +3,11 @@ I’m a cybersecurity professional with experience in lateral movement and privi
 
 ## Quick Navigation
 
-### [Projects](#cybersecurityprojects)
-67 hands-on cybersecurity projects with full source code, from beginner to advanced level.
+# Projects
 
+| Project | Info |
+|---------|------|
+| **[Caesar Cipher](./cybersecurityprojects/caesar-cipher.py**<br>Async TCP port scanner in C++ [@deniskhud](https://github.com/deniskhud) | ![2-4h](https://img.shields.io/badge/⏱️_4--5h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | 
 ### [Learning Resources](./RESOURCES/README.md)
 Tools, courses, certifications, communities, and frameworks for cybersecurity professionals.
 
