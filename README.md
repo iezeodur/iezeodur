@@ -1,6 +1,18 @@
 # 💫 About Me:
 I’m a cybersecurity professional with experience in lateral movement and privilege escalation within production systems.
 
+## Quick Navigation
+
+### [Projects](#projects)
+67 hands-on cybersecurity projects with full source code, from beginner to advanced level.
+
+### [Certification Roadmaps](./ROADMAPS/README.md)
+10 structured career paths with certification guides for SOC Analyst, Pentester, Security Engineer, and more.
+
+### [Learning Resources](./RESOURCES/README.md)
+Tools, courses, certifications, communities, and frameworks for cybersecurity professionals.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iezeodur) 
