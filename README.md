@@ -3,11 +3,8 @@ I’m a cybersecurity professional with experience in lateral movement and privi
 
 ## Quick Navigation
 
-### [Projects](#projects)
+### [Projects](#cybersecurityprojects)
 67 hands-on cybersecurity projects with full source code, from beginner to advanced level.
-
-### [Certification Roadmaps](./ROADMAPS/README.md)
-10 structured career paths with certification guides for SOC Analyst, Pentester, Security Engineer, and more.
 
 ### [Learning Resources](./RESOURCES/README.md)
 Tools, courses, certifications, communities, and frameworks for cybersecurity professionals.
