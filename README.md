@@ -1,14 +1,5 @@
 # 💫 About Me:
 I’m a cybersecurity professional with experience in lateral movement and privilege escalation within production systems.
-
-## Quick Navigation
-
-# Projects
-
-| Project | Info |
-|---------|------|
-| **[Caesar Cipher](./cybersecurityprojects/caesar-cipher.py)** | ![2-4h](https://img.shields.io/badge/⏱️_4--5h-blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus) ![Beginner](https://img.shields.io/badge/●_Beginner-green) | 
-
 ---
 
 ## 🌐 Socials:
