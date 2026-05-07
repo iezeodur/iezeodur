@@ -5,9 +5,6 @@ I’m a cybersecurity professional with experience in lateral movement and privi
 
 | Project | Description | Link |
 |---|---|---|
-| SIEM Dashboard | Real-time log analysis and alerting platform | [Open](https://github.com/iezeodur/cybersecurityprojects/tree/main/SIEM) |
-| Network Scanner | Python reconnaissance and host discovery tool | [Open](https://github.com/iezeodur/cybersecurityprojects/tree/main/NetworkScanner) |
-| Threat Monitoring | Windows/Linux log monitoring and detection | [Open](https://github.com/iezeodur/cybersecurityprojects) |
 | Cybersecurity Portfolio | Main repository of security projects | [Open](https://github.com/iezeodur/cybersecurityprojects) |
 
 ## 🌐 Socials:
