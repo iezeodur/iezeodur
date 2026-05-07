@@ -1,7 +1,16 @@
 # 💫 About Me:
 I’m a cybersecurity professional with experience in lateral movement and privilege escalation within production systems.
 ---
+## Cybersecurity Projects
 
+### SIEM Log Monitor
+A Python-based SIEM project with real-time log monitoring.
+
+🔗 Repo:
+https://github.com/iezeodur/cybersecurityprojects
+
+### More Projects
+- [Cybersecurity Projects Repository](https://github.com/iezeodur/cybersecurityprojects)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iezeodur) 
 
